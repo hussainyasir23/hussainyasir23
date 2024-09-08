@@ -1,9 +1,31 @@
-## Hi there 👋, I'm Yasir.
-[![Repos Badge](https://badges.pufler.dev/repos/hussainyasir23)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/hussainyasir23/hussainyasir23)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/hussainyasir23)](https://badges.pufler.dev)
+# Hi, I'm Yasir! 👋
 
-[![Yasir's github stats](https://github-readme-stats.vercel.app/api?username=hussainyasir23&count_private=true&show_icons=true&title_color=fff&icon_color=f8d847&text_color=fff&bg_color=000000)](https://github.com/hussainyasir23/)
+### iOS Developer from India 🇮🇳
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainyasir23&layout=compact&title_color=fff&text_color=fff&bg_color=000000&card_width=445)](https://github.com/hussainyasir23/)
+Passionate about building engaging and interactive iOS applications.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin   )](https://www.linkedin.com/in/hussainyasir23/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/hussainyasir23)
+## 🚀 Skills & Technologies
+
+- **Languages:** Swift, Objective-C
+- **Frameworks:** UIKit, Combine
+- **Tools:** Xcode, Git, CocoaPods, Swift Package Manager
+- **Design Patterns & Architectures:** MVC, MVVM, VIPER, Clean Architecture
+
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=CocoaPods&logoColor=white)](https://cocoapods.org/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hussainyasir23&layout=compact&theme=dark)](https://github.com/hussainyasir23/)
+
+## 📫 Get in Touch
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hussainyasir23/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/hussainyasir23" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
