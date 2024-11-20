@@ -21,6 +21,16 @@ Passionate about building engaging and interactive iOS applications.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hussainyasir23&layout=compact&theme=dark)](https://github.com/hussainyasir23/)
 
+## 📱 Featured Projects
+
+### [Quiz Game](https://hussainyasir23.github.io/QuizGame/)
+
+A modern, interactive quiz application built with Swift and UIKit, featuring:
+- Dynamic question fetching from Open Trivia Database API
+- Customizable quiz parameters
+- Real-time score tracking with timer
+- Interactive UI with animations
+
 ## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainyasir23@gmail.com)
